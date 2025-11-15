@@ -7,4 +7,5 @@ export class person {
 export class map {
     height : any
     wight: any
+    px:any
 }
